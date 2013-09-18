@@ -1,0 +1,11 @@
+{
+  "name": "git-ftp-upload",
+  "version": "0.0.0",
+  "description": "Sim",
+  "main": "index.js",
+  "author": "Wesley Schleumer",
+  "license": "Unlicense",
+  "dependencies": {
+    "ftp": "~0.3.4"
+  }
+}
