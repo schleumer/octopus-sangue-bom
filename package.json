@@ -6,6 +6,8 @@
   "author": "Wesley Schleumer",
   "license": "Unlicense",
   "dependencies": {
-    "ftp": "~0.3.4"
+    "ftp": "~0.3.4",
+    "underscore": "~1.5.2",
+    "underscore.string": "~2.3.3"
   }
 }
